@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.card {
+  display: flex;
+}
+.cardDetil {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
